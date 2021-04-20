@@ -1,10 +1,9 @@
 ---
-title: "contact"
-author: "Mery Touceda Suarez"
-date: "4/19/2021"
+title: "Contact Info"
 output: html_document
 ---
 
-# Contact info
 
 __email__ : maria.touceda.suarez@email.arizona.edu
+
+__twitter__: [@o_k_mer](https://twitter.com/o_k_mer)

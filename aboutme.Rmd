@@ -1,17 +1,22 @@
 ---
-title: "aboutme"
-author: "Mery Touceda Suarez"
-date: "4/19/2021"
+title: "About me"
+
 output: html_document
 ---
 
-# About me 
 
-![Me](images/me.png)
+![Me about to embark in a voyage](images/me.png)
+
 
 Personal moto: 
 
 > " La vida es una tómbola" - Marisol
+
+
+
+Currently reading: 
+
+_"Canciones de amor a quemarropa"_ - Nickolas Butler
 
 
 
